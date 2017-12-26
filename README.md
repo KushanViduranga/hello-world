@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Guys!!!
+
+    i'm Kushan viduranga and I'm from Sri Lanka..
